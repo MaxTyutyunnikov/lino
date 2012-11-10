@@ -1,0 +1,3 @@
+ReportGridForm(title='Contacts'):
+VPanel:
+  - DataGrid() of ContactsReport with 19 rows
