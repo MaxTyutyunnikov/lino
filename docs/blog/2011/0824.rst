@@ -1,0 +1,13 @@
+20110824
+========
+
+Preparing release 1.2.2
+-----------------------
+
+- Fixed some minor bugs
+- Get OOo server running on Jana: 
+  Updated documentation at :doc:`/admin/oood`.
+- `lino.mixins.printables` now also works when :attr:`lino.Lino.root_url` 
+  is nonempty.
+  
+  
