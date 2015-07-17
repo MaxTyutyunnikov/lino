@@ -1,0 +1,1 @@
+Content moved to [LinuxOnCompaqPresarioCQ61](LinuxOnCompaqPresarioCQ61.md).
